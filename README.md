@@ -1,2 +1,2 @@
 # python-assignment-2
-covering lists, set, dictionaries, conditional statements
+This assignment covering lists, set, dictionaries, conditional statements
