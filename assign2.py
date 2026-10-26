@@ -1,7 +1,7 @@
 age_list = [24,25,26,27,28]
 print(age_list)
 
-name_list = ["reshma","ammu","anu",]
+name_list = ["reshma","ammu","anu"]
 print(name_list)
 
 
